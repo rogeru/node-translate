@@ -7,6 +7,7 @@
 
 ```bash
     git clone https://github.com/rogeru/node-translate.git    // and add your Circuit credentials in index.js
+    cd node-translate
     curl "https://circuitsandbox.net/circuit.tgz" -o "circuit.tgz"
     npm install
     node index.js
